@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello 👋 
+## Hi, I'm Alexis, an IT [Proffesional](https://www.linkedin.com/in/alexis-a-59b032139/) :)
 
-<!--
-**alexisali95/alexisali95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👩🏽‍💻 Information Technology Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **osTicket (Help Desk Ticketing System)**
+  * [osTicket: Prerequisites and Installation](https://github.com/alexisali95/osticket.prereqs)
+  * [osTicket: Post-Installation Configuration](https://github.com/alexisali95/osticket.postconfig)
+  * [osTicket: Ticket Lifestyle Examples](https://github.com/alexisali95/osticket.lifecycle)
+* **Microsoft Azure**
+  * [Configuring On-Premesis Active Directory within Azure VMs](https://github.com/alexisali95/azure.on-premesis)
+  * [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alexisali95/network.protocols)
